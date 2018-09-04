@@ -18,7 +18,6 @@
 *.ipr
 /out/
 
-build.gradle
 gradle/
 gradlew
 gradlew.bat
